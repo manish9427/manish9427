@@ -1,23 +1,46 @@
-# GitHub Profile Analyser
+<h1 align="center">Hi there! I'm Manish Verma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h2 align="center">Currently Learning Full-Stack Web Development from Masai School </h2>
 
-### Enter your GitHub username as submission
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
 
-## Maximum Marks - 9
+- 👨‍💻 My Portfolio - **[Manish Verma](https://manish9427.github.io/)**
 
-```
-✅ Linkedin to be present in ReadMe - 1 mark
-✅ Links are working in Readme - 1 mark
-✅ Profile description should be present - 1 mark
-✅ At least 50 followers should be present - 1 mark
-✅ Address should be present - 1 mark
-✅ Portfolio link should be present in Profile Section(deployed on github.io) - 1 mark
-✅ Minimum 3 Pinned Repositories to be present - 1 mark
-✅ Pinned Repos have description - 1 mark
-✅ Portfolio link is present in ReadMe & is the same as the deployed link in the Profile Section - 1 mark
-```
+- 🌱 I’m currently learning **Full Stack - Web Development.**
 
-#### General guidelines
+- 📫 How to reach me **manish119427@gmail.com**
 
-- The system on cp.masaischool.com may take between 1-20 minutes for responding,
-- We request you to not just submit it last minute
-- Try to keep one submission at a time
+- Connect with me - **[LinkedIn](https://www.linkedin.com/in/manish-verma-9626701b5/)**
+
+<br/>
+
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
+
+<p>
+
+<a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&labelColor=black&logo=node.js&logoColor=609857" alt="Node JS"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white" alt="Netlify"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python"/> </a> &nbsp;
+
+</p>
+
+<h3>📊 Github Stats</h3>
+<br/>
+<p align="center">
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=manish9427&theme=dark" /> <br \>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manish9427&show_icons=true&locale=en&theme=dark"/>
+</p>
+
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>
+
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/manish9427/count.svg" />
+</h3>
