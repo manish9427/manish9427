@@ -17,13 +17,17 @@
 
 <img src="https://camo.githubusercontent.com/88c627299565f8d4e12b5a831f07b0b3a299ffd01448d598d3428e0c6544c48c/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e6769663f6369643d373930623736313137373235656230393436366466386132323435666363313165393138623166313031613934666563267269643d67697068792e6769662663743d67" align="right" width="350px" height="250px"/>
 
-🔭 I’m currently preparing for placements!.<br>
-<br>🌱 I’m currently learning MERN Stack.<br>
-<br>📄 Check out my [Resume]()<br>
-<br>💻 Know more about me [Portfilio]()<br>
-<br>💻 All of my projects are available at My [Github Repositories]()<br>
-<br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
-<br>📫 How to reach me manish119427@gmail.com<br>
+- 🔭 I’m currently preparing for placements!.
+- 🌱 I’m currently learning MERN Stack.
+- 📄 Check out my [Resume]()
+- 💻 Know more about me [Portfilio]()
+- 💻 All of my projects are available at My [Github Repositories]()
+
+- 💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript
+
+- 😄 Pronouns: Web Developer/he/him/his
+- 💼 any freelance work? do reach, [email](mailto:manish119427@gmail.com) :)
+  <br/>
 
 <h2 align="center">📱 Connect with me</h2>
 <br />
