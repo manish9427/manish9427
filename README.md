@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning MERN Stack.
 - 📄 Check out my [Resume]()
 - 💻 Know more about me [Portfilio]()
-- 💻 All of my projects are available at My [Github Repositories]()
+- 💻 All of my projects are available at My [Github Repositories]("https://github.com/manish9427?tab=repositories")
 
 - 💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript
 
