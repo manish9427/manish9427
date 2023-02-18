@@ -109,7 +109,23 @@
     <a href="https://github.com/manish9427/github-readme-stats"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=manish9427&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="manish9427" /></a>
     </p>
 
-<br/>
+<!-- -------------------------- -->
+<h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b> :balance_scale: Github Profile Details</b></i> </h2>
+   <br/>   
+    <p align="center">      
+<a href="https://github.com/manish9427">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish9427&theme=radical" />
+</a>
+      </p>      
+     <br/>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=manish9427&theme=vue" alt=""/> </p>
+</p>
+
+  <br/>
+  <br/>
+
+<!-- ----- -->
+<!-- <br/>
  <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
  <br/>
@@ -120,7 +136,7 @@
 </a> </p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=manish9427&theme=vue" alt=""/> </p>
 </p>
-</div>
+</div> -->
 <br/>
 
 <h3 align="center">
