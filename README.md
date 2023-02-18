@@ -33,14 +33,11 @@
 <br />
 
 <div align="center">
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/manish-verma-9626701b5/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" href="mailto:manish119427@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a target="_blank" href="https://github.com/manish9427"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Manish--Verma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/07-priya-varshney/)](https://www.linkedin.com/in/manish-verma-9626701b5/)
-[![Twitter Badge](https://img.shields.io/badge/-%40Manish4387-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PriyaVa22310248)](https://twitter.com/Manish4387)
-[![Website Badge](https://img.shields.io/badge/-Manish--Verma-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://priya-varshney-portfolio.vercel.app/)]()
-[![Gmail Badge](https://img.shields.io/badge/-manish119427-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:priyavarshney070497@gmail.com)](mailto:manish119427@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Manish--Verma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/07-manish-verma/)](https://www.linkedin.com/in/manish-verma-9626701b5/)
+[![Twitter Badge](https://img.shields.io/badge/-%40Manish4387-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manishVa22310248)](https://twitter.com/Manish4387)
+[![Website Badge](https://img.shields.io/badge/-Manish--Verma-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manish-verma-portfolio.vercel.app/)]()
+[![Gmail Badge](https://img.shields.io/badge/-manish119427-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manish119427@gmail.com)](mailto:manish119427@gmail.com)
 
 </div>
 
