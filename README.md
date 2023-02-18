@@ -122,21 +122,7 @@
 </p>
 
   <br/>
-  <br/>
 
-<!-- ----- -->
-<!-- <br/>
- <div>
-  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
- <br/>
-
-<p  align="center">
-<a href="https://github.com/manish9427">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish9427&theme=radical" />
-</a> </p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=manish9427&theme=vue" alt=""/> </p>
-</p>
-</div> -->
 <br/>
 
 <h3 align="center">
