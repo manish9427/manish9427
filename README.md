@@ -11,7 +11,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready code using JavaScript, React.Js and HTML, CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and intensely interested in working in a product-based company.</h3>
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 # 💫 About Me:
 
 🔭 I’m currently preparing for placements!.<br>
