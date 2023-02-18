@@ -35,7 +35,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Manish--Verma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/07-priya-varshney/)](https://www.linkedin.com/in/manish-verma-9626701b5/)
 [![Twitter Badge](https://img.shields.io/badge/-%40Manish4387-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PriyaVa22310248)](https://twitter.com/Manish4387)
-[![Website Badge](https://img.shields.io/badge/-Manish--Verma-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://priya-varshney-portfolio.vercel.app/)](https://priya-varshney-portfolio.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/-Manish--Verma-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://priya-varshney-portfolio.vercel.app/)]()
 [![Gmail Badge](https://img.shields.io/badge/-manish119427-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:priyavarshney070497@gmail.com)](mailto:manish119427@gmail.com)
 
 </div>
