@@ -99,21 +99,27 @@
      <br/>
    <p align="center">
     <a href="https://github.com/manish9427/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sarfraj streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manish9427&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manish9427&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/manish9427/github-readme-stats"><img alt="sarfraj Github Stats" src="https://github-readme-stats.vercel.app/api?username=manish9427&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="manish9427" /></a>
+    <a href="https://github.com/manish9427/github-readme-stats"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=manish9427&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="manish9427" /></a>
     </p>
 
 <br/>
  <div>
-                    <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
-  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish9427&theme=github_dark" alt="arshad" align = "center"/></p>
+ <br/>
+
+<p  align="center">
+<a href="https://github.com/manish9427">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyaa7manish9427&theme=radical" />
+</a> </p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=priyaa7manish9427&theme=vue" alt=""/> </p>
+</p>
 </div>
 <br/>
 
