@@ -15,6 +15,8 @@
 
 # 💫 About Me:
 
+<img src="https://camo.githubusercontent.com/88c627299565f8d4e12b5a831f07b0b3a299ffd01448d598d3428e0c6544c48c/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e6769663f6369643d373930623736313137373235656230393436366466386132323435666363313165393138623166313031613934666563267269643d67697068792e6769662663743d67" align="right" width="350px" height="250px"/>
+
 🔭 I’m currently preparing for placements!.<br>
 <br>🌱 I’m currently learning MERN Stack.<br>
 <br>📄 Check out my [Resume]()<br>
@@ -77,7 +79,7 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manish9427&label=Profile%20views&color=ee4e20&style=flat" alt="manish9427" /> </p>
 
-<h2 align="center">📊 My Github Stats</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>📈 My Github stats:</b></i> </h2>
    <br/>   
     <p align="center">      
   <a href="https://github.com/manish9427/github-readme-stats"><img alt="manish9427 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish9427&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
