@@ -110,6 +110,12 @@
     </p>
 
 <br/>
+ <div>
+                    <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish9427&theme=github_dark" alt="arshad" align = "center"/></p>
+</div>
+<br/>
 
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
