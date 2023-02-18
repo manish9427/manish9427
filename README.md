@@ -100,4 +100,12 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>
+
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/manish9427/count.svg" />
+</h3>
