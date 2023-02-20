@@ -11,9 +11,13 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready code using JavaScript, React.Js and HTML, CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and intensely interested in working in a product-based company.</h3>
-<p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" /></p>
+<!-- <p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" /></p> -->
 
 # 💫 About Me:
+
+<img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" />
+
+<!-- <img src="https://camo.githubusercontent.com/88c627299565f8d4e12b5a831f07b0b3a299ffd01448d598d3428e0c6544c48c/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e6769663f6369643d373930623736313137373235656230393436366466386132323435666363313165393138623166313031613934666563267269643d67697068792e6769662663743d67" align="right" width="350px" height="250px"/> -->
 
 - 🔭 I’m currently preparing for placements!.
 - 🌱 I’m currently learning MERN Stack.
