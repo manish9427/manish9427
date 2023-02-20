@@ -15,7 +15,8 @@
 
 # 💫 About Me:
 
-<img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" />
+<img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350px" height="250px" />
+<!-- <img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" /> -->
 
 <!-- <img src="https://camo.githubusercontent.com/88c627299565f8d4e12b5a831f07b0b3a299ffd01448d598d3428e0c6544c48c/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e6769663f6369643d373930623736313137373235656230393436366466386132323435666363313165393138623166313031613934666563267269643d67697068792e6769662663743d67" align="right" width="350px" height="250px"/> -->
 
