@@ -11,19 +11,15 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready code using JavaScript, React.Js and HTML, CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and intensely interested in working in a product-based company.</h3>
-<!-- <p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" /></p> -->
 
 # 💫 About Me:
 
-<!-- <img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350px" height="350px" /> -->
 <img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" />
-
-<!-- <img src="https://camo.githubusercontent.com/88c627299565f8d4e12b5a831f07b0b3a299ffd01448d598d3428e0c6544c48c/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e6769663f6369643d373930623736313137373235656230393436366466386132323435666363313165393138623166313031613934666563267269643d67697068792e6769662663743d67" align="right" width="350px" height="250px"/> -->
 
 - 🔭 I’m currently preparing for placements!.
 - 🌱 I’m currently learning MERN Stack.
-- 📄 Check out my [Resume]()
-- 💻 Know more about me [Portfilio]()
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1XAv9exk9MValhis3FlJQZM9Q0kkw-Dwu/view?usp=sharing)
+- 💻 Know more about me [Portfilio](https://manish9427.github.io/)
 - 💻 All of my projects are available at My [Github Repositories](https://github.com/manish9427?tab=repositories)
 
 - 💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript
@@ -39,7 +35,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Manish--Verma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/07-manish-verma/)](https://www.linkedin.com/in/manish-verma-9626701b5/)
 [![Twitter Badge](https://img.shields.io/badge/-%40Manish4387-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manishVa22310248)](https://twitter.com/Manish4387)
-[![Website Badge](https://img.shields.io/badge/-Manish--Verma-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manish-verma-portfolio.vercel.app/)]()
+[![Website Badge](https://img.shields.io/badge/-Manish--Verma-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manish-verma-portfolio.vercel.app/)](https://manish9427.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-manish119427-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manish119427@gmail.com)](mailto:manish119427@gmail.com)
 
 </div>
