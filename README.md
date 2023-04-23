@@ -10,7 +10,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h2 align="center">Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready code using JavaScript, React.Js and HTML, CSS on the frontend, NodeJS, and Express on the backend to build single-page applications.</h2>
+<h2 align="center">Aspiring Full-Stack Web Developer in MERN with a strong passion for technology and a deep desire to learn and grow. Passionate about building high-quality, elegant, user-friendly, intuitive websites and applications that delight users and exceed client expectations.</h2>
 
 # 💫 About Me:
 
