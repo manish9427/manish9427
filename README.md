@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently preparing for placements!.
 - 🌱 I’m currently learning MERN Stack.
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1TDHLGPx4B30QWqWZQOz0Ql9wkeHSxmOy/view)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1wdU1CxLO2XwZRAkIHtyR_Kvtk9NudVc7/view?usp=sharing)
 - 💻 Know more about me [Portfilio](https://manish9427.github.io/)
 - 💻 All of my projects are available at My [Github Repositories](https://github.com/manish9427?tab=repositories)
 
